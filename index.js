@@ -11,7 +11,7 @@ const DisTube = require("distube").default;
 const https = require('https-proxy-agent');
 const client = new Discord.Client({
     shards: "auto",
-    //BY: "Tomato#6966",
+    //BY: "Yash#0596",
     allowedMentions: {
       parse: [ ],
       repliedUser: false,
@@ -101,7 +101,7 @@ client.login(process.env.token || config.token)
 
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+ * Bot Coded by Yash#0596| https://discord.gg/milrato
  * @INFO
  * Work for Milrato Development | https://milrato.eu
  * @INFO
