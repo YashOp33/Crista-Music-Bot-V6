@@ -56,7 +56,7 @@
 <br/>
 <br/>
 
-# SUPPORT ME AND MILRATO DEVELOPMENT
+# SUPPORT ME AND CRISTA DEVELOPMENT
 
 You can always Support me by inviting one of my **own Discord Bots**
 
