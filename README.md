@@ -1,11 +1,11 @@
-# Musicium
+# Crista Bot
 
 
 ***
 
 
 
-### [**DISCORD SUPPORT SERVER INVITE**](https://support.milrato.eu)
+### [**DISCORD SUPPORT SERVER INVITE**](https://discord.gg/swkRn6aBhF)
 
 ***
 
@@ -60,9 +60,8 @@
 
 You can always Support me by inviting one of my **own Discord Bots**
 
-[![2021's best Music Bot | Lava Music](https://cdn.discordapp.com/attachments/748533465972080670/817088638780440579/test3.png)](https://lava.milrato.eu)
-[![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](https://dc.musicium.eu)
-[![Milrato Multi Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://dc.milrato.eu)
+[![Crista Music Bot](https://cdn.discordapp.com/attachments/852865225082404945/891190714392797205/sweet-color-rose-hydrangeas-soft-260nw-491600152_1.jpg)](https://discord-bot-webiste.hahwuassdfds.repl.co/)
+[![Crista Support Server](https://cdn.discordapp.com/attachments/852865225082404945/891190717047775272/sweet-color-rose-hydrangeas-soft-260nw-491600152_2.jpg)](https://discord-bot-webiste.hahwuassdfds.repl.co/)
 
 # Credits
 
